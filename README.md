@@ -1,7 +1,7 @@
 # Hi👋 I'm Tnixs. 
 `A Basic Python Enjoyer`
 
-
+I love make something new!
 
 **Languages**
 
