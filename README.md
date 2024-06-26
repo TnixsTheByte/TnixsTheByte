@@ -1,4 +1,4 @@
-# Hi👋 I'm Tnixs. 
+# Hi👋 I'm **Tnixs.** 
 `A Basic Python Enjoyer`
 
 I love make something new!
@@ -13,7 +13,9 @@ I love make something new!
 
 👉Luau
 
- 
+👉NodeJS (WIP)
+
+👉JavaScript (WIP)
  
 ** OS Knowledge**
 
