@@ -3,6 +3,7 @@
 
 I love make something new!
 
+I try my best to keep it **legal**
 **Languages**
 
 👉Python
