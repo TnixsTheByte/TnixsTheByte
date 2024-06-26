@@ -23,3 +23,12 @@ I love make something new!
 
 💻 Windows
 
+** Cyber Security Side **
+
+Basic Networking 🌐
+
+Website Security (OWASP TOP 10)
+
+Data Security 📁
+
+Malware Development 🦠
