@@ -17,13 +17,15 @@ I love make something new!
 
 👉JavaScript (WIP)
  
-** OS Knowledge**
+**OS Knowledge**
 
 💻 Kali Linux
 
 💻 Windows
 
-** Cyber Security Side **
+
+--------------------------------------------
+**Cyber Security Side**
 
 Basic Networking 🌐
 
