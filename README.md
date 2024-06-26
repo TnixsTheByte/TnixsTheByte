@@ -1,17 +1,18 @@
 # Hi👋 I'm Tnixs. 
 `A Basic Python Enjoyer`
 
+
+
 **Languages**
 
 👉Python
  
-👉C++ (I make Dll's for Games)
+👉C++ (I make Internal Cheats for Games)
+
+👉C# 
 
 👉Luau
 
-👉Lua
-
- 
  
  
 ** OS Knowledge**
