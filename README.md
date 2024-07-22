@@ -18,8 +18,6 @@ I try my best to keep it **legal**
 
 👉Luau
 
-👉NodeJS (WIP)
-
 👉JavaScript (WIP)
  
 **OS Knowledge**
