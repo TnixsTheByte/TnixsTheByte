@@ -32,7 +32,7 @@ I try my best to keep it **legal**
 
 Basic Networking 🌐
 
-Website Security (OWASP TOP 10)
+Website Security 👁
 
 Data Security 📁
 
